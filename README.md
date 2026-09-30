@@ -65,9 +65,6 @@ The tests cover validation, patient registration and lookup, rejecting unknown p
 7. Try an invalid phone, unknown patient ID, and non-date string; note the messages.
 8. Exit and start again to observe that records do not persist.
 
-## Design and submission
-
-See [statement.md](statement.md), [docs/design_diagrams.md](docs/design_diagrams.md), [docs/PROJECT_REPORT_DRAFT.md](docs/PROJECT_REPORT_DRAFT.md), and [SETUP_AND_EVALUATION.md](SETUP_AND_EVALUATION.md). Replace the cover-page placeholders and write your own account of what you changed, observed, and learned before submitting. The report draft is source text; export your completed version as PDF for the VITyarthi portal if required.
 
 ## Limitations and next steps
 
